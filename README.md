@@ -17,3 +17,7 @@ Deno 1.13.2
 ```
 
 Open http://localhost:4507/ in Web Browser.
+
+## GitHub Pages
+
+https://chibat.github.io/deno-mithril-example/
