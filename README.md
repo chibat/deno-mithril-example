@@ -1,5 +1,9 @@
 # deno-mithril-example
 
+## Prerequisites
+
+Deno 1.13.2
+
 ## Build
 
 ```
